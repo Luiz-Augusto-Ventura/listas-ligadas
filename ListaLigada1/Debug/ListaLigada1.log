@@ -1,0 +1,8 @@
+﻿  Principal.cpp
+c:\users\luiza\desktop\listasligadas\listaligada1\listasligadas.h(48): warning C4715: 'removePri': not all control paths return a value
+c:\users\luiza\desktop\listasligadas\listaligada1\listasligadas.h(95): warning C4715: 'contaOcorrencia': not all control paths return a value
+c:\users\luiza\desktop\listasligadas\listaligada1\listasligadas.h(74): warning C4715: 'removeUlt': not all control paths return a value
+c:\users\luiza\desktop\listasligadas\listaligada1\listasligadas.h(123): warning C4715: 'removDeterminado': not all control paths return a value
+c:\users\luiza\desktop\listasligadas\listaligada1\listasligadas.h(164): warning C4715: 'maiorElemento': not all control paths return a value
+c:\users\luiza\desktop\listasligadas\listaligada1\listasligadas.h(182): warning C4715: 'mediaAritmetica': not all control paths return a value
+  ListaLigada1.vcxproj -> C:\Users\luiza\Desktop\ListasLigadas\Debug\ListaLigada1.exe
